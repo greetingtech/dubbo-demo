@@ -1,0 +1,1 @@
+AfterAddBiz = com.greetingtech.dubbo.demo.provider.extension.AfterAddBiz
